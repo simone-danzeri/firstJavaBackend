@@ -1,0 +1,163 @@
+[
+  {
+    "firstName": "Anna",
+    "lastName": "Rossi",
+    "phone": "3334569851",
+    "email": "anna.rossi@example.com",
+    "address": "Via Roma 45, Torino (TO)",
+    "isPayer": true
+  },
+  {
+    "firstName": "Sergio",
+    "lastName": "Verdi",
+    "phone": "3425476590",
+    "email": "sergio.verdi@example.com",
+    "address": "Via Londra 67, Roma (RM)",
+    "isPayer": false
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Gialli",
+    "phone": "3425473490",
+    "email": "maria.gialli@example.com",
+    "address": "Corso Adriatico 7, Milano (MI)",
+    "isPayer": false
+  },
+  {
+    "firstName": "Luca",
+    "lastName": "Bianchi",
+    "phone": "3298547123",
+    "email": "luca.bianchi@example.com",
+    "address": "Piazza Duomo 10, Firenze (FI)",
+    "isPayer": true
+  },
+  {
+    "firstName": "Giulia",
+    "lastName": "Neri",
+    "phone": "3406578943",
+    "email": "giulia.neri@example.com",
+    "address": "Via Napoli 123, Napoli (NA)",
+    "isPayer": true
+  },
+  {
+    "firstName": "Marco",
+    "lastName": "Blu",
+    "phone": "3385649870",
+    "email": "marco.blu@example.com",
+    "address": "Via Genova 56, Genova (GE)",
+    "isPayer": false
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Viola",
+    "phone": "3477890123",
+    "email": "sara.viola@example.com",
+    "address": "Via Torino 34, Torino (TO)",
+    "isPayer": true
+  },
+  {
+    "firstName": "Paolo",
+    "lastName": "Argento",
+    "phone": "3491234567",
+    "email": "paolo.argento@example.com",
+    "address": "Via Milano 78, Milano (MI)",
+    "isPayer": false
+  },
+  {
+    "firstName": "Elena",
+    "lastName": "Bronzi",
+    "phone": "3456789012",
+    "email": "elena.bronzi@example.com",
+    "address": "Via Firenze 67, Firenze (FI)",
+    "isPayer": true
+  },
+  {
+    "firstName": "Giorgio",
+    "lastName": "Zaffiro",
+    "phone": "3489876543",
+    "email": "giorgio.zaffiro@example.com",
+    "address": "Via Bari 56, Bari (BA)",
+    "isPayer": false
+  },
+  {
+    "firstName": "Claudia",
+    "lastName": "Rubino",
+    "phone": "3476543987",
+    "email": "claudia.rubino@example.com",
+    "address": "Via Palermo 23, Palermo (PA)",
+    "isPayer": true
+  },
+  {
+    "firstName": "Alessandro",
+    "lastName": "Diamanti",
+    "phone": "3429876510",
+    "email": "alessandro.diamanti@example.com",
+    "address": "Via Venezia 89, Venezia (VE)",
+    "isPayer": true
+  },
+  {
+    "firstName": "Valentina",
+    "lastName": "Perla",
+    "phone": "3402345678",
+    "email": "valentina.perla@example.com",
+    "address": "Via Siena 12, Siena (SI)",
+    "isPayer": false
+  },
+  {
+    "firstName": "Stefano",
+    "lastName": "Onice",
+    "phone": "3398765432",
+    "email": "stefano.onice@example.com",
+    "address": "Via Trieste 34, Trieste (TS)",
+    "isPayer": true
+  },
+  {
+    "firstName": "Marta",
+    "lastName": "Corallo",
+    "phone": "3487654321",
+    "email": "marta.corallo@example.com",
+    "address": "Via Reggio 78, Reggio Emilia (RE)",
+    "isPayer": false
+  },
+  {
+    "firstName": "Davide",
+    "lastName": "Ambra",
+    "phone": "3312345678",
+    "email": "davide.ambra@example.com",
+    "address": "Via Como 45, Como (CO)",
+    "isPayer": true
+  },
+  {
+    "firstName": "Lucia",
+    "lastName": "Cristallo",
+    "phone": "3376543981",
+    "email": "lucia.cristallo@example.com",
+    "address": "Via Salerno 67, Salerno (SA)",
+    "isPayer": true
+  },
+  {
+    "firstName": "Francesco",
+    "lastName": "Oro",
+    "phone": "3387654321",
+    "email": "francesco.oro@example.com",
+    "address": "Via Messina 89, Messina (ME)",
+    "isPayer": false
+  },
+  {
+    "firstName": "Roberta",
+    "lastName": "Smeraldo",
+    "phone": "3467890123",
+    "email": "roberta.smeraldo@example.com",
+    "address": "Via Pisa 34, Pisa (PI)",
+    "isPayer": true
+  },
+  {
+    "firstName": "Gabriele",
+    "lastName": "Topazio",
+    "phone": "3498765432",
+    "email": "gabriele.topazio@example.com",
+    "address": "Via Cagliari 12, Cagliari (CA)",
+    "isPayer": false
+  }
+]
+
