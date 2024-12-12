@@ -21,6 +21,11 @@ public class BabysitterController {
     public List<Babysitter> getAllBabysitters() {
         return babysitterService.getAllBabysitters();
     }
+    // GET BABYSITTER BY ID
+    @GetMapping("/{id}")
+    public Babysitter getBabysitterById(@PathVariable Long id) {
+        return babysitterService.getBabysitterById(id);
+    }
     // UPDATE
     @PutMapping("/{id}")
     public Babysitter updateBabysitter(@PathVariable Long id, @RequestBody Babysitter babysitter) {

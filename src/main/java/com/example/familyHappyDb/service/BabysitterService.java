@@ -49,4 +49,9 @@ public class BabysitterService {
     public void deleteBabysitter(Long id) {
         babysitterRepository.deleteById(id);
     }
+    // GET BABYSITTER BY ID
+    public Babysitter getBabysitterById(Long id) {
+        return babysitterRepository.findById(id)
+                .orElseThrow(() -> new RuntimeException("Babysitter not found with id: " + id));
+    }
 }
